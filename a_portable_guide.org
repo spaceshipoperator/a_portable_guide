@@ -1,0 +1,20 @@
+* a portable guide
+  “a portable guide” is fundamentally a set of principles which yields an approach to solving problems: 
+
+  - transparency
+  - accountability
+  - adaptability
+  - simplicity
+  - reproducibility
+
+  These attributes are intended to represent a concise and ordered set of principles. They are the result of careful consideration and scrutiny of the contributors to this guide.
+
+  With deliberate adherence to the established principles, when approaching any challenge, the following (similarly concise and ordered) characteristics are defined which correspond to each of the afformentioned principles.
+
+  - declaration
+  - foundation
+  - considerations
+  - resources
+  - implementation
+
+  Our principles yield our approach to solving problems, and if we are successful, the solutions we produce will reflect our principles.
